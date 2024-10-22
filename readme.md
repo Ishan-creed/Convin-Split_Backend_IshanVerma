@@ -62,7 +62,7 @@ expense-tracker-backend/
 - **controllers/**: Logic for handling requests related to users and expenses.
 - **models/**: Mongoose schemas defining the structure of the data.
 - **routes/**: API endpoints for expenses and users.
-- **utils/**: Helper functions for sending emails and handling errors.
+- **utils/**: Helper functions for Balance Sheet logic and JWT verification.
 - **middleware/**: Middleware functions for user authentication.
 - **config/**: Configuration files for database connection and server setup.
 
