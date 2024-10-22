@@ -1,4 +1,3 @@
-Here’s an optimized and visually appealing `README.md` file for your Expense Tracker backend application. I've added formatting for better readability, structured sections clearly, and made it more GitHub-friendly.
 
 ```markdown
 # Expense Tracker Backend Application
