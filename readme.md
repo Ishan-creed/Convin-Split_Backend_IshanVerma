@@ -72,7 +72,7 @@ To set up the application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/expense-tracker-backend.git
+   git clone https://github.com/Ishan-creed/Covin-Split_Backend_IshanVerma.git
    ```
 
 2. **Install Dependencies**:
