@@ -2,7 +2,7 @@
 ```markdown
 # Expense Tracker Backend Application
 
-![Expense Tracker Logo](https://via.placeholder.com/150) <!-- Replace with actual logo or remove -->
+
 
 This is a backend application for an **Expense Tracker**, built using **Node.js**, **Express**, and **MongoDB**. It provides functionalities to manage expenses, generate balance sheets, and handle user data efficiently.
 
