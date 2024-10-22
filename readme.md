@@ -73,7 +73,6 @@ To set up the application locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/expense-tracker-backend.git
-   cd expense-tracker-backend
    ```
 
 2. **Install Dependencies**:
